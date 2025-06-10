@@ -1,0 +1,13 @@
+package com.yeshwanth.sbr;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootRedisCartserviceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringbootRedisCartserviceApplication.class, args);
+    }
+
+}
