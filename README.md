@@ -28,6 +28,29 @@ The following endpoints are included in the test plan:
 
 ---
 
+
+## 🛠️ 0. Download and Set Up JMeter
+
+Before starting the test plan configuration, you need to have Apache JMeter installed on your system.
+
+### a. Download JMeter
+- Go to the [Apache JMeter Downloads page](https://jmeter.apache.org/download_jmeter.cgi).
+- Download the latest version of JMeter (zip or tgz archive).
+
+### b. Extract and Set Up JMeter
+- Extract the downloaded archive to a preferred location on your computer.
+- No installation is required; JMeter runs directly from the extracted folder.
+
+### c. Start JMeter
+- Navigate to the `bin` directory inside the extracted JMeter folder.
+- On Windows: Double-click `jmeter.bat` to launch the JMeter GUI.
+- On Mac/Linux: Run `./jmeter` from a terminal.
+
+---
+
+
+
+
 ## 📂 1. Prepare Test Data CSV File
 
 Create a file named `cart_test_data.csv` in the same directory as your JMeter `.jmx` file. This file provides dynamic data for your test requests.
