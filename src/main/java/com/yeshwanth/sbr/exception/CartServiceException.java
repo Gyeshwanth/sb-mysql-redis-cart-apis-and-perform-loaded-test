@@ -5,7 +5,5 @@ public class CartServiceException extends RuntimeException {
         super(message);
     }
 
-    public CartServiceException(String message, Throwable cause) {
-        super(message, cause);
-    }
+
 }

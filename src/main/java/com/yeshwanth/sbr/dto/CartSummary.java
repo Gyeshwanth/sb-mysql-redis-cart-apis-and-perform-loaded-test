@@ -1,8 +1,6 @@
 package com.yeshwanth.sbr.dto;
 
-import com.yeshwanth.sbr.model.CartEntry;
 
-import com.yeshwanth.sbr.model.User;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
