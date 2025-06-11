@@ -219,3 +219,9 @@ After the test, open `report/index.html` in your browser to view the dashboard.
 - Always analyze percentiles, not just average response times, for real user experience insights.
 
 ---
+
+
+![Screenshot (164)](https://github.com/user-attachments/assets/aa007f35-8fd2-4058-87e1-261710a6b4bb)
+
+
+
